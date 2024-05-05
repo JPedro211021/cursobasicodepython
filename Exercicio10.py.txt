@@ -1,0 +1,11 @@
+# curso basico de python
+#nome da fera: João Paulo Gonçalves de Aguiar
+# Exercicio quadrado
+
+
+print('valor quadrado')
+lado=int(input('Digite o tamanho do lado'))
+area= lado*lado
+quadrado = lado**2
+print('O quadrado dos numeros digitados é', 
+quadrado)
