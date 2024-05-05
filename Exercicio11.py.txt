@@ -1,0 +1,11 @@
+# curso basico de python
+#nome da fera: João Paulo Gonçalves de Aguiar
+# Exercicio Losango
+
+print('valor losango')
+Diagonalmaior=int(input('Digite D.maior'))
+Diagonalmenor=int(input('Digite D.menor'))
+losango=Diagonalmaior*Diagonalmenor/2
+print('O quadrado dos numeros digitados é', 
+losango)
+
