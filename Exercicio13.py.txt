@@ -1,0 +1,10 @@
+# curso basico de python
+#nome da fera: João Paulo Gonçalves de Aguiar
+# Exercicio Circulo
+
+print('valor circulo')
+raio=float(input('Digite o valor do raio'))
+pi=3,1415
+area= 3,1415*(raio** 2)
+print('O circulo dos numeros digitados é', area)
+
