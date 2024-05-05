@@ -1,0 +1,12 @@
+# curso basico de python
+#nome da fera: João Paulo Gonçalves de Aguiar
+# Exercicio Trapezio
+
+print('valor Trapezio')
+basemaior=int(input('Digite basemaior'))
+basemenor=int(input('Digite basemenor'))
+altura=int(input('Digite altura'))
+area=(basemaior+basemenor)*altura/2
+print('O trapezio dos numeros digitados é', 
+area)
+
