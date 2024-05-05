@@ -1,0 +1,10 @@
+# curso basico de python
+#nome da fera: João Paulo Gonçalves de Aguiar
+# Exercicio Triangulo
+
+
+print('valor Triangulo')
+base=int(input('Digite a base'))
+altura=int(input('Digite altura'))
+Triangulo=base*altura/2
+print('O triangular dos numeros digitados é', Triangulo)
